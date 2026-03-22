@@ -2,5 +2,5 @@
   "autoPrint": true,
   "printDelay": 1000,
   "redirectDelay": 2000,
-  "redirectUrl": "http://12.152.50.54:81/cnf_nf-exportdepot&action=_new"
+  "redirectUrl": "http://122.152.50.54:81/cnf_final/final/cms/admin/?app=cnf-exportdepot&action=_new"
 }
